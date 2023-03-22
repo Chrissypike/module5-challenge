@@ -1,5 +1,10 @@
 # module5-challenge
 
+## User Story
+    AS AN employee with a busy schedule
+    I WANT to add important events to a daily planner
+    SO THAT I can manage my time effectively
+
 ## Acceptance Criteria
     - The current day is displayed at the top of the calendar when I open the planner
     - I am presented with time blocks for the standard business hours when I 
@@ -9,3 +14,5 @@
     - I can enter an event when I click into a time block
     - The text for that event is saved in local storage when I save the button for that time block
     - The saved events are still there when I refresh the page
+    
+## Mock-Up
