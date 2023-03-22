@@ -16,3 +16,5 @@
     - The saved events are still there when I refresh the page
     
 ## Mock-Up
+
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/115738225/227007374-ce11daab-7ab1-4ecb-882d-a4b9ddf176ed.gif)
